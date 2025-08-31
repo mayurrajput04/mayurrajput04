@@ -19,8 +19,6 @@ Just chasing logic — the kind that hides between the lines of smart contracts.
 - Breaking contracts I built yesterday  
 - Deep diving into DeFi, rebase tokens, stablecoins, and vault logic
 
-I use **Foundry like a blade** — fast, sharp, and straight to the point.  
-No fluff, no bandaids. Just logic.
 
 ---
 
@@ -33,9 +31,5 @@ If it compiles, good.
 If it survives me trying to break it, better.
 
 ---
-
-## 🥷 Gintoki Rules Apply
-
-Lazy on the outside. Dangerous when it matters.
 
 If you're into clean code, messy bugs, and silent logic wars — welcome.
