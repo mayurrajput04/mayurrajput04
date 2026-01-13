@@ -5,7 +5,6 @@
 ![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=flat&logo=ethereum&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
 
 Not chasing stars or followers.  
 Just chasing logic — the kind that hides between the lines of smart contracts.
@@ -19,7 +18,6 @@ Just chasing logic — the kind that hides between the lines of smart contracts.
 - Deep diving into DeFi, rebase tokens, stablecoins, and vault logic
 
 
----
 
 ## Why I’m Here
 
@@ -30,5 +28,4 @@ If it compiles, good.
 If it survives me trying to break it, better.
 
 ---
-
 If you're into clean code, messy bugs, and silent logic wars — welcome.
