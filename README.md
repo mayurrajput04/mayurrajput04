@@ -10,7 +10,6 @@
 Not chasing stars or followers.  
 Just chasing logic — the kind that hides between the lines of smart contracts.
 
----
 
 ## What I'm Up To
 
